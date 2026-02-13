@@ -1,2 +1,2 @@
-Remote repository demo project
-Initial version
+Remote repository demo project.
+Initial version.
